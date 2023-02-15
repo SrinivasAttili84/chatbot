@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vocal-well-121509",
+  "private_key_id": "5f4ab65e48ef6ac33296467aa89d2516b5de84cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+sLspdBMkm6O/\nEqgvJLF5J49gtFJP2ap0q9SsEnBe8Ct6i+Uqfn8x4TDpOs7JZnUlTIUbeTQAI2ii\nMj3jc0JWKYoe030OA8/ikYS+T/NAOGSmylZiT7dZfxPdQPB6Wp0Zv9y2Pw2Hs87a\nmWbMZhDxm/prsOS3HNMfPhPGNNhEfFreq97g38h6LxODkusg/pCBSlIwiJ3t0jCZ\nx0LRhbxtWbGFruOazaBd8bI0TLu3e/gyiPa5pGEm8kaPyQQzUqeVAac+nKOuUgJK\nN9OuiPbKJLr3IXvzkMGj1JUFm9q8Hh/veMrqltmkGOW8zQmy+2C4+Ho3xa/PYkMP\nrB9dRGzJAgMBAAECggEADNVC+0KzCRsqVXERfX64LOGjLgxkn7gT1x87REtHYbRD\nEM+6X/Y8ZCR2ELQi933cM2LncFZjUAESCRxdeuGmXLsV7wYnm9pY0rQdXVtvEOra\npzjlwF8CBVVehlzY8jsH6JQ3a9JpfDD3IlIBj47s4/2tyDKS6dnYQXmBhizHQzCH\nezjG7yeigsnGxmEEyik9hR7GQxmYaTKSlDepBK6I0PXRwtvKawSl8SppVLBGLmm+\noKdEmDeOfTBSlMUjvcTRsDb7evrFfvztT7KTF9EcfElRq9Q63dHxO/k3yEXNhFLD\nnHows5welrJKMHUNxQsTqlSj+KOtor5+v1GmxJUzUwKBgQDo97aLz9XWvd5aGfB6\nD5jKnY6n71f4RR4Vj15bGolXfzvuS4r1m5A19T7HxjVHhZBw9p+IsM0obMK+Mo36\n+hNBsltq5SmYS3Agj2c3feTtHpO14gRCDvUGGQ6EaMQha72JpLB6D2+qYEagRkeD\nmZs42WyfQGd26l4gzQcKvXG2dwKBgQDRiwCxITMsp26c54Nvz0Fl+ypcR9+PWnZN\nbzeVayY27l6c91vHwfE8cxFwgRg+uet3xXsEXhj5ArFUs0RZ8CrpQ7AXfn7UJJs5\nxjKvulYvJKCMhJeR8RlG8B69fsVz1C1ljP4Ntiks9DFpNAxCGIOM0N9kIqjhBYNH\nNzdYOy2GvwKBgHwpCTEaY20/Y/HBQVjMVzIlJpJ6DPhUXeQ/tJn5Wpk3RkmKGVUs\nw37+ZaczC9JCbOjHh97h23VgAao8Z08LWJf65p3h5Hk2O1wfEXORtSBq225kNsC+\nF/hYAlSvQVhOg4WIMEXdVDYJeZqR2itZAlEaD7oQKRRHdEMnAknHDYOhAoGAaH+E\nsdEXvz4keJUwRBM8zwnpvymMwOXhN46uTpKn9R79ChSFreH3VykfWlbW63k2h31x\ncuUmWRBRtSbNgHi4Paom6CCKSWuUCcTgxCgOEOaYNlttZzewXmMjQWc2OyRmG02r\n6NSeRi/lcEynjFLDT/deYIa0Z7ujE2Hi9NpWQusCgYEA5RWfW5fclr4EKHRQ9blT\nKIEUnJuR6IftKDONAfovAeR4oxjyEfQQZEZplY0NBbRYRww72UJuGodglBE/SjiR\ntGN6u9wYvpDJtSZxp2HBPy5Fjli2tNxhsLlOd2naBnszGYmNJ+nLtOt8o6YHh8BN\nGvMVtSNl2+rieDLNNBKDdKw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialoflow@vocal-well-121509.iam.gserviceaccount.com",
+  "client_id": "109361287873604275162",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialoflow%40vocal-well-121509.iam.gserviceaccount.com"
+}
